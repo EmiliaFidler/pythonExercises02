@@ -1,3 +1,5 @@
+# homwework -- exercices 02 --
+
 # exercise 1:
 
 def count_integer(numbers, integer):
